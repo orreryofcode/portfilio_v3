@@ -37,12 +37,15 @@ function Navbar() {
         <nav className='nav__navbar--mobile'>
           <ul className='nav__list--mobile'>
             <li className='nav__list-item--mobile'>
-              <Link to='/' className='nav__link--mobile'>
+              <Link to='/' className='nav__link--mobile' onClick={closeNav}>
                 01. About
               </Link>
             </li>
             <li className='nav__list-item--mobile'>
-              <Link to='/works' className='nav__link--mobile'>
+              <Link
+                to='/works'
+                className='nav__link--mobile'
+                onClick={closeNav}>
                 02. Works
               </Link>
             </li>
