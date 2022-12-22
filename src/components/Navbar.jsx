@@ -52,10 +52,18 @@ function Navbar() {
           </ul>
           <div className='nav__mobile--social'>
             <a href='https://github.com/orreryofcode' target='_blank'>
-              <img src='./img/svg/github-svgrepo-com.svg' alt='Github' />
+              <img
+                src='./img/svg/github-svgrepo-com.svg'
+                alt='Github'
+                rel='noopener'
+              />
             </a>
             <a href='mailto:orreryofcode@gmail.com'>
-              <img src='./img/svg/mail-svgrepo-com.svg' alt='Email' />
+              <img
+                src='./img/svg/mail-svgrepo-com.svg'
+                alt='Email'
+                rel='noopener'
+              />
             </a>
           </div>
         </nav>

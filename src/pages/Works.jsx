@@ -11,7 +11,7 @@ function Works() {
             title={project.title}
             tags={project.tags}
             body={project.body}
-            img={project.title.toLowerCase()}
+            img={project.img}
             vercel={project.vercel}
             github={project.github}
             count={project.count}
