@@ -25,13 +25,13 @@ function About() {
               environments to make something awesome or implement the best
               solution to solve a problem. I specialize in working with
               Javascript but I have been tinkering with other languages and
-              tools such as Typescript, Python and NextJS.
+              tools such as Python and Typescript.
             </p>
             <br></br>
             <br></br>
             <p>
               Feel free to check out some of my featured projects or shoot me a
-              message if there is something you would like me to help with.
+              message if you'd like to get in touch!.
             </p>
           </div>
         </div>
