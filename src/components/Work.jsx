@@ -22,14 +22,14 @@ function Works({ title, tags, body, img, vercel, github, count }) {
             className='work__link'
             target='_blank'
             rel='noopener'>
-            View on Vercel &#8599;
+            View Deployment &#8599;
           </a>
           <a
             href={github}
             className='work__link'
             target='_blank'
             rel='noopener'>
-            View on Github &#8599;
+            View Repo &#8599;
           </a>
         </div>
       </div>
