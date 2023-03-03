@@ -47,7 +47,7 @@ const projects = [
     img: "triage",
     vercel: "https://mern-tickets-app.vercel.app/login",
     github: "https://github.com/orreryofcode/mern-tickets-app",
-    count: "04",
+    count: "05",
   },
   {
     id: 6,
@@ -57,7 +57,7 @@ const projects = [
     img: "ifc",
     vercel: "https://tekken-ifcv2.vercel.app/",
     github: "https://github.com/orreryofcode/tekken_IFCv2",
-    count: "05",
+    count: "06",
   },
   // {
   //   id: 5,
@@ -77,7 +77,7 @@ const projects = [
     img: "housemarket",
     vercel: "https://housing-market-proj.vercel.app/",
     github: "https://github.com/orreryofcode/housing-market-proj",
-    count: "06",
+    count: "07",
   },
 ];
 
