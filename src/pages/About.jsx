@@ -34,7 +34,7 @@ function About() {
               <br></br>
               <p>
                 Feel free to check out some of my featured projects or shoot me
-                a message if you'd like to get in touch!.
+                a message if you'd like to get in touch!
               </p>
             </div>
           </div>
