@@ -2,7 +2,7 @@ function Works({ title, tags, body, img, vercel, github, count }) {
   return (
     <div className='work__container'>
       <figure className='work'>
-        <img src={`./img/jpg/${img}.jpg`} alt='' className='work__img' />
+        <img src={`./img/jpg/${img}.webp`} alt='' className='work__img' />
       </figure>
 
       <div className='work__details'>
