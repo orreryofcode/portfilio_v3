@@ -6,7 +6,7 @@ function Works({ title, tags, body, img, vercel, github, count }) {
       </figure>
 
       <div className='work__details'>
-        <h3 className='work__heading'>{title}</h3>
+        <h2 className='work__heading'>{title}</h2>
         <div className='work__tag--wrapper'>
           {tags.map((tag, index) => (
             <div className='work__tag' key={index}>
